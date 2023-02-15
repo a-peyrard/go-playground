@@ -1,0 +1,7 @@
+ES_APP_ENV=production
+ES_APP_PORT=8080
+ES_DB_HOST=localhost
+ES_DB_PORT=3306
+ES_DB_USERNAME=myuser
+ES_DB_PASSWORD=mypassword
+ES_FOO=foobar
